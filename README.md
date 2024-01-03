@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Samin 👋
+I'm a beginner programmer, and still learning the ropes, but I'm looking forward to creating and experiencing new things.  
+Currently, I'm focusing on learning c++, as well as html, java, and css.  
+
+Portfolio: Under Construction
 
 <!--
 **Samin-A1/Samin-A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
