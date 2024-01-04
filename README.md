@@ -2,7 +2,7 @@
 I'm a beginner programmer, and still learning the ropes, but I'm looking forward to creating and experiencing new things.  
 Currently, I'm focusing on learning c++, as well as html, java, and css.  
 
-Portfolio: Under Construction
+Portfolio: [Samin's Portfolio](https://samin-a1.github.io/Portfolio/)
 
 <!--
 **Samin-A1/Samin-A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
